@@ -9,7 +9,7 @@ int main() {
     //静态方法通过类直接调用（使用::）运算符
      SpeechManger::showMenu();
      SpeechManger sm;
-
+    //test
     //while(true) 加上switch不断读取用户输入，并进入分支流程，直到用户选择退出
     while (true)
     {
