@@ -16,6 +16,7 @@ int main() {
         cout << "请输入你的选择：";
         int cmd = 0;
        cin >> cmd;
+       cout << "--------------------------" << endl;
         switch (cmd)
         {
             case 1:
