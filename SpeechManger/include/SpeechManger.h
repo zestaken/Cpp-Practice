@@ -27,6 +27,8 @@ public:
     void drawLots();
     void startCompetition();
     void speechContest();
+    void saveRecord();
+    void readRecord();
     SpeechManger(); //构造函数
     ~SpeechManger(); //析构函数
 };

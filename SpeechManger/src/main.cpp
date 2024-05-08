@@ -25,6 +25,7 @@ int main() {
                 break;
             case 2:
                 // 查看往届结果
+                sm.readRecord();
                 break;
             case 3:
                 // 清空比赛结果
@@ -37,7 +38,8 @@ int main() {
                 cout << "请输入，1，2，3，4进行选择" << endl;
                 break;
         }
-        break;
+//        system("pause");
+//        system("cls");
     }
 
     return 0;
