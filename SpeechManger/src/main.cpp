@@ -29,6 +29,7 @@ int main() {
                 break;
             case 3:
                 // 清空比赛结果
+                //测试分支
                 break;
             case 4:
                 // 退出比赛程序
